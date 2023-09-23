@@ -9,7 +9,7 @@ int fungsi(char input,int n,int ke_n,int if_n){
       }
     break;
 
-    case 'x':
+    case '*':
     for(int counter = 1;counter <= if_n;counter++){
         cout << (n *= ke_n) << " | deret " << counter << endl;
       }
