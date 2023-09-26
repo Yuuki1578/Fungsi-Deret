@@ -1,21 +1,13 @@
-Halo!
+Fungsi Deret
 
-Ini adalah manual text untuk program deret.                                             
-1. Hal-hal yang ada di dalam program:
-  a. Fungsi perhitungan deret.
-  b. Operator penghitung deret.
-  c. Maks limit untuk deret (21474836647), jika melebihi limit, maksimal deret akan meng
-ulang di (-21474836648)! karena seluruh bagian fungsi terdeklarasi oleh integer.
+Ini adalah program yang bisa menjalankan fungsi deret, mulai dari deret tambah,kurang,kali, dan bagi.
 
-2. Kesimpulan, ini adalah program yang dibuat untuk kebutuhan sains dan matematika, sert
-a masih dalam tahap pengembangan, tunggu update repository untuk program-program yang la
-in!
+Program terbagi menjadi dua yaitu main program ".cpp" dan header file yang di include ke main ".h"
 
-3. All thanks to:
-  - Helix editor
-  - Clang compiler
-  - Ubuntu 22.04
-  - Termux
+Ini adalah program C++, jadi untuk menjalankannya, anda memerlukan compiler C/C++ seperti GCC atau LLVM Clang.
+
+Kode ini saya buat karena saya malas mencari Suku ke-n dari suatu deret bilangan.
 
 
--awang@localhost:1
+
+-yuuki@localhost:1$clear
